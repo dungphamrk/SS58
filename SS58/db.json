@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Nguyễn Văn A",
+      "email": "nguyenvana@example.com",
+      "address": "123 Đường A, Quận 1, TP. HCM",
+      "phone": "0901234567"
+    },
+    {
+      "id": "2",
+      "name": "Nguyễn Văn A",
+      "email": "nguyenvana@example.com",
+      "address": "123 Đường A, Quận 1, TP. HCM",
+      "phone": "0901234567"
+    },
+    {
+      "id": "3",
+      "name": "Nguyễn Văn A",
+      "email": "nguyenvana@example.com",
+      "address": "123 Đường A, Quận 1, TP. HCM",
+      "phone": "0901234567"
+    },
+    {
+      "id": "4",
+      "name": "Nguyễn Văn A",
+      "email": "nguyenvana@example.com",
+      "address": "123 Đường A, Quận 1, TP. HCM",
+      "phone": "0901234567"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": 2,
+      "title": "another title",
+      "views": 200
+    }
+  ]
+}
